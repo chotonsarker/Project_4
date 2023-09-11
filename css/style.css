@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0.5px;
+    box-sizing: border-box;
+}
+.c{
+    border: 5px solid blue;
+}
+header{
+    background-color: aquamarine;
+    text-align: center;
+    height: 80px;
+    padding-top: 10px;
+    width: 100%;
+    border: 5px solid rgb(86, 86, 86);
+}
+.head{
+    padding: 0%;
+    background-color: transparent;
+}
+
+.nav_box{
+    background-color: brown;
+    text-align: center;
+    height: 700px;
+    width: 30%;
+    margin-top: 5px;
+    border: 5px solid rgb(73, 68, 77);
+    color: antiquewhite;
+    float: left;
+}
+.nav_box h1{
+    padding-top: 300px;
+    
+}
+.div_box{
+    background-color: cornsilk;
+    color: black;
+    height: 700px;
+    width: 69.5%;
+    text-align: center;
+    border: 5px solid rgb(73, 68, 77);
+    margin-top: 5px;
+    float: right;
+    margin-left: 2px;
+}
+.div_box h1{
+    padding-top: 40px;
+}
+.article_1{
+    background-color: aqua;
+    text-align: center;
+    height: 160px;
+    width: 95%;
+    border: 5px solid rgb(73, 68, 77);
+    margin-top: 90px;
+    margin-left: 2%;
+    margin-right: 2.5%;
+}
+.article_2{
+    background-color: aqua;
+    text-align: center;
+    height: 160px;
+    width: 95%;
+    border: 5px solid rgb(73, 68, 77);
+    margin-top: 10px;
+    margin-left: 2%;
+    margin-right: 2.5%;
+}
+.article_3{
+    background-color: aqua;
+    text-align: center;
+    height: 162px;
+    width: 95%;
+    border: 5px solid rgb(73, 68, 77);
+    margin-top: 10px;
+    margin-left: 2%;
+    margin-right: 2.5%;
+}
+footer h1{
+    background-color: hotpink;
+    color: blue;
+    height: 80px;
+    text-align: center;
+    margin-top: 710px;
+    border: 5px solid rgb(73, 68, 77);
+    border-radius: 5px;
+    padding-top: 1%;
+
+}
